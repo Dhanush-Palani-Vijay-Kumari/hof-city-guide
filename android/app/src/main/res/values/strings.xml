@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hof City Guide</string>
+    <string name="title_activity_main">Hof City Guide</string>
+    <string name="package_name">de.example.hofcityguide</string>
+    <string name="custom_url_scheme">de.example.hofcityguide</string>
+</resources>

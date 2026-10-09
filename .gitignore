@@ -1,0 +1,6 @@
+node_modules
+dist
+android/build
+ios/App/Pods
+.DS_Store
+.env
